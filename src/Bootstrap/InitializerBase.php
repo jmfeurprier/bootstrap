@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Bootstrap;
+namespace Jmf\Bootstrap;
 
 use RuntimeException;
 use Symfony\Component\DependencyInjection\ContainerInterface;
